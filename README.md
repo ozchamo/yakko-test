@@ -15,7 +15,17 @@ From the OC command line:
 oc new-app httpd:24~https://github.com/ozchamo/yakko-test-app.git
 
 
+
+
+
+
+
 -------------------------------------------------------------------------------------------
+
+
+And this is a reminder of the buttons to press with GITHUB :)
+
+
 
 
 Quick setup — if you’ve done this kind of thing before
